@@ -1,0 +1,10 @@
+Hey there! I'm Enock Rotich
+
+
+I'm an AI Engineer, Data Scientist, and MLOps Specialist passionate about solving real-world problems with AI. My expertise includes Machine Learning, Deep Learning, NLP, and Data Analytics.
+
+🔥 What I Do
+AI & Data Science – Building and optimizing ML models
+MLOps – Deploying AI models in production
+Data Engineering – Data processing and visualization
+Software Development – AI-powered applications
