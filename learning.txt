@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 During this course, I’ve learned how to clone a GitHub repo, create and commit files, and push changes using Git. It's helped me understand how version control works in real projects.
+=======
+During this course, I’ve learned how to clone a GitHub repo, create and commit files, and push changes using Git. It's helped me understand how version control works in real projects.
+>>>>>>> 69c186500cc0fb83187262c3a374424d40c66d45
